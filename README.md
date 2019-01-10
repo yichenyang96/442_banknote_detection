@@ -19,3 +19,4 @@ setuptools | 39.0.1
 ```
 # demo
 
+![alt text](https://github.com/yichenyang96/442_banknote_detection/blob/master/demo_video.png)
