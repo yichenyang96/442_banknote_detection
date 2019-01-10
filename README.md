@@ -15,5 +15,5 @@ setuptools | 39.0.1
 # The command-line utility
 
 ```
-./442project_hidden.py
+./442project_banknote_detection.py
 ```
