@@ -17,6 +17,6 @@ setuptools | 39.0.1
 ```
 ./442project_banknote_detection.py
 ```
-# demo
+# Demo
 
 ![alt text](https://github.com/yichenyang96/442_banknote_detection/blob/master/demo_video.png)
